@@ -1,0 +1,33 @@
+{
+  "upstream_index_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json",
+  "signing_key_fingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "repos": {
+    "sfw": {
+      "name": "Keiyoushi fork sfw"
+    },
+    "nsfw": {
+      "name": "Keiyoushi fork 18+"
+    }
+  },
+  "whitelist_pkg": [
+    "eu.kanade.tachiyomi.extension.en.webtoons"
+  ],
+  "nsfw_keywords": [
+    "hentai",
+    "porn",
+    "18\\+",
+    "\\b18\\b",
+    "xxx",
+    "adult",
+    "erotica",
+    "doujin",
+    "ecchi",
+    "smut",
+    "yaoi",
+    "yuri",
+    "lewd",
+    "nsfw",
+    "milf",
+    "rule\\s*34"
+  ]
+}
